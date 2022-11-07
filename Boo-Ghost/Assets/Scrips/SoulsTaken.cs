@@ -13,6 +13,8 @@ public class SoulsTaken : MonoBehaviour
     {
         Souls += 1;
 
-        SoulsDisplay.text = "" + Souls; 
+        SoulsDisplay.text = "" + Souls;
+        
+
     }
 }
